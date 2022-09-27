@@ -23,5 +23,16 @@ namespace Prototipo2P
             m.Show();
             this.Hide();
         }
+
+        private void navegador1_Load(object sender, EventArgs e)
+        {
+            TextBox[] textbox = { textBox1, textBox2, textBox3, textBox4 };
+            TextBox[] textboxi = { textBox1, textBox2 };
+            navegador1.textbox = textbox;
+            navegador1.tabla = dataGridView1;
+            navegador1.textboxi = textboxi;
+            navegador1.actual = this;
+            navegador1.cargar(dataGridView1, textbox, "siu");
+        }
     }
 }

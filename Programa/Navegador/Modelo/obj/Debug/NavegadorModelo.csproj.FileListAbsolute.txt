@@ -6,3 +6,11 @@ C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\C
 C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
 C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\obj\Debug\Modelo.dll
 C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Mayén Ramírez\Desktop\Progra\Prototipo2P\Programa\Navegador\Modelo\bin\Debug\Modelo.dll
+C:\Users\Mayén Ramírez\Desktop\Progra\Prototipo2P\Programa\Navegador\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Mayén Ramírez\Desktop\Progra\Prototipo2P\Programa\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mayén Ramírez\Desktop\Progra\Prototipo2P\Programa\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\Progra\Prototipo2P\Programa\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Progra\Prototipo2P\Programa\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+C:\Users\Mayén Ramírez\Desktop\Progra\Prototipo2P\Programa\Navegador\Modelo\obj\Debug\Modelo.dll
+C:\Users\Mayén Ramírez\Desktop\Progra\Prototipo2P\Programa\Navegador\Modelo\obj\Debug\Modelo.pdb
