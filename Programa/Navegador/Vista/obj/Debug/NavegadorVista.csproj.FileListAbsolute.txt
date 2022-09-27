@@ -1,0 +1,16 @@
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\Vista.Ayuda.resources
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.Navegador.resources
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.GenerateResource.cache
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\Vista.dll
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\Vista.pdb
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\bin\Debug\Vista.dll
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\bin\Debug\Vista.pdb
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\bin\Debug\Controlador.dll
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo.dll
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\bin\Debug\Controlador.pdb
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\bin\Debug\Modelo.pdb
+C:\Users\Mayén Ramírez\Desktop\Trabajo Grupal\proyectofinalasis222022\Codigo\Componentes\Navegador\Vista\obj\Debug\NavegadorVista.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\bin\Debug\Prototipo2P.exe.config
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\bin\Debug\Prototipo2P.exe
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\bin\Debug\Prototipo2P.pdb
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.Form1.resources
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.Menu.resources
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.Properties.Resources.resources
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.csproj.GenerateResource.cache
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.exe
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.pdb
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.FAyuda.resources
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.Fcatálogos.resources
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.FHerramientas.resources
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.FInformes.resources
+C:\Users\Mayén Ramírez\Desktop\Programa\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.FProcesos.resources
