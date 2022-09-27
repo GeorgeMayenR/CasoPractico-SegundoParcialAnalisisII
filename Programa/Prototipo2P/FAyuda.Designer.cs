@@ -31,6 +31,7 @@ namespace Prototipo2P
         {
             this.label1 = new System.Windows.Forms.Label();
             this.btnSalir = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -55,12 +56,24 @@ namespace Prototipo2P
             this.btnSalir.UseVisualStyleBackColor = false;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(116, 209);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(632, 20);
+            this.label2.TabIndex = 11;
+            this.label2.Text = "Puede contactarnos a travéz de: gmayenr@miumg.edu.gt y solucionaremos su problema" +
+    "";
+            // 
             // FAyuda
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(899, 494);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.label1);
             this.Name = "FAyuda";
@@ -75,5 +88,6 @@ namespace Prototipo2P
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnSalir;
+        private System.Windows.Forms.Label label2;
     }
 }
